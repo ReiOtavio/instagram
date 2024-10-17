@@ -1,0 +1,120 @@
+body {
+	background-color: #F5F5F5;
+}
+
+.instalogo {
+	text-align: center;
+	position: relative;
+	top: 170px;
+}
+.branco {
+	text-align: center;
+	position: relative;
+	top: 90px;
+	z-index: -1;
+	display: block;
+}
+.branco img {
+	width: 500px;
+	height: 350px;
+}
+.carlos img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto ;
+	position: relative;
+	top: -160px;
+	height: auto;
+	width: 100px;
+}
+.botao {
+	background-color: #50A6E8;
+	color: #FFFFFF;
+	border: 1px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: -140px;
+	padding: 9px 20px;
+	border-radius: 5px;
+	font-size: 16px;
+	cursor: pointer;
+}
+.botao2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: -125px;
+	background-color: #FFFFFF;
+	border: none;
+	color: #0E8EE7;
+	font-size: 16px;
+	cursor: pointer;
+}
+.branco1 img {
+	width: 500px;
+	height: 100px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto ;
+	position: relative;
+	top: -35px;
+}
+.text {
+	text-align: center;
+	position: relative;
+	top: -130px;
+	font-size: 16px;
+}
+.altern {
+	
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: -165px;
+	left: 633px;
+	background-color: transparent;
+	border: none;
+	color: #0E8EE7;
+	font-size: 16px;
+	cursor: pointer;
+
+}
+.insc {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: -165px;
+	left: 645px;
+	background-color: transparent;
+	border: none;
+	color: #0E8EE7;
+	font-size: 16px;
+	cursor: pointer;
+}
+.texto2 {
+text-align: center;
+	position: relative;
+	top: -90px;
+	font-size: 20px;
+}
+.playstore img{
+	width: 200px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: -90px;
+	left: 755px;
+}
+.apple img {
+	width: 200px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	top: -153px;
+	left: 535px;
+}
